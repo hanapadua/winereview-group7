@@ -1,5 +1,5 @@
 # winereview-group7
-*Team Members*
+*Team Members:*
   
   -Hana Padua
   
@@ -13,7 +13,7 @@
 For this project the team was tasked with generating a mongoDB collection derived from two csv data sets and a json data set. The team took the appropriate steps to make the data presentable and easy to query as requested. 
 
 ## Wine Data File Manipulation
-*Steps taken to clean Data*
+*Steps taken to clean Data:*
   
   -Eroneous Columns Removed
   
