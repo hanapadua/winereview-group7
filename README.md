@@ -25,3 +25,11 @@ For this project the team was tasked with generating a mongoDB collection derive
   
 
 ## Additional Project Analysis
+Observations
+
+- A majority of the wine was created in USA, with 48,690 different wine bottles coming from California 
+- Wine quality and wine prices are not correlated with each other.
+- The cheapest bottle of wine is named “Broke Ass” and is being sold for $4
+- The most expensive bottle of wine is $3,300
+- The data revealed that the average price for a bottle of wine is $34.64
+- The median price for a bottle is $25
