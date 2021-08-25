@@ -33,3 +33,10 @@ Observations
 - The most expensive bottle of wine is $3,300
 - The data revealed that the average price for a bottle of wine is $34.64
 - The median price for a bottle is $25
+
+- There 2954 wineries with duplicate names, 2681 of those are in the same country, 0 are in the same province
+- Filtering by Winery rendered unreliable results; need to group by multiple criteria
+- Many nulls, including "region_2." Null values remained as to not eliminate Wineries because of one null value.
+- Characters [√±] and other languages made the data inconsistent, especially with alphabetizing and importing into PGAdmin
+
+-
